@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 
 - 🔭 Actualmente me encuentro trabajando como Fonoaudióloga en un colegio.
