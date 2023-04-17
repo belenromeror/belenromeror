@@ -1,4 +1,8 @@
+![Minimal Modern Graphic Design Resume Template](https://user-images.githubusercontent.com/130616410/232543936-ac4f170d-dbf9-4bed-a959-1b6996918107.jpg)
+
+
 ## Hola 👋
+
 
 
 - 🔭 Actualmente me encuentro trabajando como Fonoaudióloga en un colegio.
@@ -10,3 +14,5 @@
 - 😄 Pronombres: Ella (She/her)
 - ⚡ Fun fact: Mis gustos están muy poco relacionados, soy personal-trainer y amo la repostería.
 
+
+Puedes ver mi trabajo en https://github.com/belenromeror
