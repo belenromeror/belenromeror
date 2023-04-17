@@ -16,3 +16,4 @@
 
 
 Puedes ver mi trabajo en https://github.com/belenromeror
+Puedes descargar mi curriculum aquí (https://github.com/belenromeror/belenromeror#:~:text=Curriculum%20Bele%CC%81n%20Romero.pdf)
