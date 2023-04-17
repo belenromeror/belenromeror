@@ -14,4 +14,4 @@
 - 😄 Pronombres: Ella (She/her)
 - ⚡ Fun fact: Mis gustos están muy poco relacionados, soy personal-trainer y amo la repostería.
 
-Puedes descargar mi curriculum [aquí] (https://github.com/belenromeror/belenromeror#:~:text=Curriculum%20Bele%CC%81n%20Romero.pdf)
+Puedes descargar mi curriculum [aquí](https://github.com/belenromeror/belenromeror#:~:text=Curriculum%20Bele%CC%81n%20Romero.pdf)
